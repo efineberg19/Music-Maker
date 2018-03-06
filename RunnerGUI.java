@@ -1,7 +1,7 @@
 import java.awt.Color.*;
 
 /**
- * Creates window and starts timer. I've really worked to make the whole project
+ * Creates window and starts the timer. I've really worked to make the whole project
  * as simple as possible.
  *
  * @author Beth Fineberg
