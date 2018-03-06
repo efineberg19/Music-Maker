@@ -17,7 +17,7 @@ public class RunnerGUI
         
         Window win = new Window(windowWidth, windowHeight);
         
-        //starts timer to redraw note images
+        //starts timer in order to redraw note images
         win.startTimer();
     }
 }
