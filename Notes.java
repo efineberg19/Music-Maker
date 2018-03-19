@@ -4,7 +4,6 @@ import javax.swing.*;
 import javax.imageio.*;
 
 /**
- * Write a description of class Note here.
  *
  * @author Beth Fineberg
  * @version 1.0
